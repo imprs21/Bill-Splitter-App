@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530098921666",
+    "project_id": "billsplittershared",
+    "storage_bucket": "billsplittershared.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530098921666:android:c290ea060388068ee3db5b",
+        "android_client_info": {
+          "package_name": "com.app.shared.expense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530098921666-tj6mg8c80itup9g731cjkv7cdjjk60k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.shared.expense",
+            "certificate_hash": "35cfa522e25d81bbf8ba600dc3c3db9b42cdde69"
+          }
+        },
+        {
+          "client_id": "530098921666-gtjr0o7a2eik4nplpf0mmrl6vf0gqksk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtom-x3pO8kzSN-7Qj58bnAnKXooE-Hoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530098921666-gtjr0o7a2eik4nplpf0mmrl6vf0gqksk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
